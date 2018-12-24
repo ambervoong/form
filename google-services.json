@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1003732902494",
+    "firebase_url": "https://form-f8bc5.firebaseio.com",
+    "project_id": "form-f8bc5",
+    "storage_bucket": "form-f8bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003732902494:android:220859b8d91a6361",
+        "android_client_info": {
+          "package_name": "com.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003732902494-rh12ras7k24k952l8ntubcqo3jahf25v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9qBDBLzvtq93p65xQGzIU74Wz3-DgEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
